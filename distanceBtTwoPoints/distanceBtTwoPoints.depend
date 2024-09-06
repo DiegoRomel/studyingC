@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675469561 source:c:\users\romel\documents\códigos em c\distancebttwopoints\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

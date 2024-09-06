@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1679108945 source:c:\users\romel\documents\códigos em c\ponteirosemc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1679108868 source:c:\users\romel\documents\códigos em c\ponteirosemc\continuacao.c
+	<stdio.h>
+	<stdlib.h>
+

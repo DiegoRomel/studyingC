@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675868724 source:c:\users\romel\documents\códigos em c\positivenegative\main.c
+	<stdio.h>
+	<stdlib.h>
+

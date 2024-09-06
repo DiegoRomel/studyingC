@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675106444 source:c:\users\romel\documents\códigos em c\arithmeticsequence\main.c
+	<stdio.h>
+	<stdlib.h>
+

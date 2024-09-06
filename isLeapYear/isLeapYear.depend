@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675910456 source:c:\users\romel\documents\códigos em c\isleapyear\main.c
+	<stdio.h>
+	<stdlib.h>
+

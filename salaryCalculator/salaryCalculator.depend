@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675122004 source:c:\users\romel\documents\códigos em c\salarycalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+

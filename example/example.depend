@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677687301 source:c:\users\romel\documents\códigos em c\example\main.c
+	<stdio.h>
+	<stdlib.h>
+

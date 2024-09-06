@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678466297 source:c:\users\romel\documents\códigos em c\bhasketballc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

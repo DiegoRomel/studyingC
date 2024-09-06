@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677282266 source:c:\users\romel\documents\códigos em c\trainingfunction\main.c
+	<stdio.h>
+	<stdbool.h>
+

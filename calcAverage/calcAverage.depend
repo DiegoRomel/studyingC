@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674936963 source:c:\users\romel\documents\códigos em c\calcaverage\main.c
+	<stdio.h>
+	<stdlib.h>
+
